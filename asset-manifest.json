@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/FreeAPI/static/js/main.5b353ace.chunk.js",
+    "main.js.map": "/FreeAPI/static/js/main.5b353ace.chunk.js.map",
+    "runtime-main.js": "/FreeAPI/static/js/runtime-main.01c99e8a.js",
+    "runtime-main.js.map": "/FreeAPI/static/js/runtime-main.01c99e8a.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/FreeAPI/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.5c97482c.chunk.js": "/FreeAPI/static/js/2.5c97482c.chunk.js",
+    "static/js/2.5c97482c.chunk.js.map": "/FreeAPI/static/js/2.5c97482c.chunk.js.map",
+    "index.html": "/FreeAPI/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/FreeAPI/static/css/2.4c97ca4f.chunk.css.map",
+    "static/js/2.5c97482c.chunk.js.LICENSE.txt": "/FreeAPI/static/js/2.5c97482c.chunk.js.LICENSE.txt",
+    "static/media/logo.414febcc.svg": "/FreeAPI/static/media/logo.414febcc.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01c99e8a.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.5c97482c.chunk.js",
+    "static/js/main.5b353ace.chunk.js"
+  ]
+}
