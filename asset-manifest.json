@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.js": "/FreeApi-frontend/static/js/main.3b17a2cc.chunk.js",
-    "main.js.map": "/FreeApi-frontend/static/js/main.3b17a2cc.chunk.js.map",
+    "main.js": "/FreeApi-frontend/static/js/main.7117036a.chunk.js",
+    "main.js.map": "/FreeApi-frontend/static/js/main.7117036a.chunk.js.map",
     "runtime-main.js": "/FreeApi-frontend/static/js/runtime-main.0195dbf0.js",
     "runtime-main.js.map": "/FreeApi-frontend/static/js/runtime-main.0195dbf0.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/FreeApi-frontend/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.5c97482c.chunk.js": "/FreeApi-frontend/static/js/2.5c97482c.chunk.js",
-    "static/js/2.5c97482c.chunk.js.map": "/FreeApi-frontend/static/js/2.5c97482c.chunk.js.map",
+    "static/js/2.a4518467.chunk.js": "/FreeApi-frontend/static/js/2.a4518467.chunk.js",
+    "static/js/2.a4518467.chunk.js.map": "/FreeApi-frontend/static/js/2.a4518467.chunk.js.map",
     "index.html": "/FreeApi-frontend/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/FreeApi-frontend/static/css/2.4c97ca4f.chunk.css.map",
-    "static/js/2.5c97482c.chunk.js.LICENSE.txt": "/FreeApi-frontend/static/js/2.5c97482c.chunk.js.LICENSE.txt",
+    "static/js/2.a4518467.chunk.js.LICENSE.txt": "/FreeApi-frontend/static/js/2.a4518467.chunk.js.LICENSE.txt",
     "static/media/logo.414febcc.svg": "/FreeApi-frontend/static/media/logo.414febcc.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.0195dbf0.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.5c97482c.chunk.js",
-    "static/js/main.3b17a2cc.chunk.js"
+    "static/js/2.a4518467.chunk.js",
+    "static/js/main.7117036a.chunk.js"
   ]
 }
